@@ -19,6 +19,8 @@ To install this simply follow below commands.
 ```
 git clone https://github.com/T3CHMYTH/mac-changer
 cd mac-changer
+chmod 777 install.sh
+bash install.sh
 ```
 And then
 ```
